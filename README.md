@@ -3,7 +3,7 @@
 Overview
 
 * Wrote a Python script that creates an optimized "NBA" schedule for any number of teams in a given league of competitors.
-* Although a basketball season schedule is one case-use of the the script, it can easily be modified to greatly simplify many other tasks, including settting up meetings with colleagues that have varying availability, etc.
+* Although a basketball season schedule is one use case of the the script, it can easily be modified to greatly simplify many other tasks, including settting up meetings with colleagues that have varying availability, etc.
 
 Dependencies
 
