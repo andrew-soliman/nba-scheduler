@@ -29,4 +29,4 @@ Design
 Project Schedule
 
 * Started: Wednesday October 5, 2022
-* Completed: Saturday, October 9, 2022
+* Completed: Saturday, October 8, 2022
